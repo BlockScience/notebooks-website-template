@@ -1,2 +1,3 @@
 # Put your dependencies here
+# You don't have to put notebook or nbconvert as they are already installed
 seaborn
